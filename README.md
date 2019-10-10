@@ -17,7 +17,7 @@ Once the jar is running, you'll be prompted with the "help" alert box telling th
 After exiting the menu, you'll have the default matrix displayed to do row operations on.
 ![](./images/defaultMatrix.png)
 
-**To add two rows**, specify the row you want to be added to the other. (r1+r2 -> r2, 1/2r1+-3/2r3)
+**To add two rows**, specify the row you want to be added to the other. Scaling operations can be applied when doing so, but the only changes that will permanently be applied is to the resulting row result. (r1+r2 -> r2, 1/2r1+-3/2r3 -> r3)
 ![](./images/addingRows.gif)
 
 **To scale a row**, specify the scalar value and the respective row with no spaces.
