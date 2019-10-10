@@ -40,3 +40,5 @@ After exiting the menu, you'll have the default matrix displayed to do row opera
 - [ ] Allowing user to specify alternative file.
 
 - [ ] Handle scenario where input file contains incorrect content layout, and be able to allow user to edit file and attempt again, or specify alternative file, without closing application. 
+
+- [ ] Allow user to export matrix operations to text file before exiting out of application. (Currently users can do this easily by manually copying the TextArea and pasting into a text file)
