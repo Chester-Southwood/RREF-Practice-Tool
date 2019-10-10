@@ -15,25 +15,25 @@ Once the jar is running, you'll be prompted with the "help" alert box telling th
 ![](./images/helpMenu.png)
 
 After exiting the menu, you'll have the default matrix displayed to do row operations on.
-![](./images/defaultMatrix.png)
+![Image of default matrix from text file](./images/defaultMatrix.png)
 
 **To add two rows**, specify the row you want to be added to the other. Scaling operations can be applied when doing so, but the only changes that will permanently be applied is to the resulting row result. (r1+r2 -> r2, 1/2r1+-3/2r3 -> r3)
-![](./images/addingRows.gif)
+![Demo of adding two rows](./images/addingRows.gif)
 
 **To scale a row**, specify the scalar value and the respective row with no spaces.
 
-![](./images/scalingRow.gif)
+![Demo of scaling one row](./images/scalingRow.gif)
 
 **To swap rows**, specify to two rows with a double arrow in between both rows. (r2<->r3)
 
-![](./images/swappingRows.gif)
+![Demo of two rows being swapped](./images/swappingRows.gif)
 
 **When errors occur**, you'll be greeted with a error alertbox attempting to specify what error occurred.
 
-![](./images/errorBox.gif)
+![Demo of error occuring and alertbox appearing](./images/errorBox.gif)
 
 **To reopen the glossary / help menu**, type in "help" into the input bar.
-![](./images/helpBox.gif)
+![Demo of opening the help menu by entering the "help" keyword](./images/helpBox.gif)
 
 ### Additions for future
 
